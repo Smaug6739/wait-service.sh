@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmaugDev/wait-service.sh.git"
+    "url": "git+https://github.com/Smaug6739/wait-service.sh.git"
   },
   "keywords": [
     "shell",
@@ -20,7 +20,7 @@
   "author": "Smaug6739",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SmaugDev/wait-service.sh/issues"
+    "url": "https://github.com/Smaug6739/wait-service.sh/issues"
   },
-  "homepage": "https://github.com/SmaugDev/wait-service.sh#readme"
+  "homepage": "https://github.com/Smaug6739/wait-service.sh#readme"
 }
