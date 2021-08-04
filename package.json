@@ -1,0 +1,26 @@
+{
+  "name": "wait-service",
+  "version": "1.0.0",
+  "description": "This script is useful for wait for a service to be available.  ",
+  "main": "This script is useful for wait for a service to be available.  ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmaugDev/wait-service.sh.git"
+  },
+  "keywords": [
+    "shell",
+    "bash",
+    "script",
+    "wait",
+    "port"
+  ],
+  "author": "Smaug6739",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmaugDev/wait-service.sh/issues"
+  },
+  "homepage": "https://github.com/SmaugDev/wait-service.sh#readme"
+}
